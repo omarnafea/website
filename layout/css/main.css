@@ -1,0 +1,203 @@
+
+body
+   {
+    margin:0;
+    padding:0;
+    /*background-color:#ffeeee;*/
+   }
+   
+
+
+
+
+
+/*Start nav-bar*/
+.bg-light{
+  background-color: #333 !important;
+  padding: 5px;
+}
+
+.bg-light h4{
+ color: #fff;
+ margin-top: 10px;
+}
+
+.bg-light .active {
+ color: #00acc1 !important;
+ font-size:16px !important;
+}  
+
+
+
+.navbar-nav .nav-link{
+	font-size: 16px;
+	text-transform: uppercase;
+	margin-left: 10px;
+	color: #fff !important;
+
+}
+
+.navbar-nav .nav-link:hover{
+  color: #0066cc !important;
+
+}
+.navbar-light .navbar-toggler-icon{
+  color: #fff !important;
+  background-color: #fff !important;
+}
+
+
+
+
+
+/*End nav-bar*/
+
+.me{
+  margin-top: 90px;
+}
+
+.me h1{
+color:  #0066cc;
+}
+.me h6{
+  color: #0080ff;
+}
+
+
+.about{
+  margin-top: 70px;
+}
+
+.about h2{
+  margin-bottom:40px;
+}
+
+.about span{
+  color:  #0066cc;
+}
+
+.about p{
+  margin-bottom: 10px;
+}
+
+
+.about ul{
+  margin: 0;
+  margin-bottom: 50px;
+}
+.about ul li{
+  display: inline-block;
+  margin-right: 7px;
+}
+
+.about ul li i{
+  font-size: 34px;
+}
+
+.services{
+
+
+   color: #fff;
+   margin-top: 100px;
+
+   background-image:url("../img/t3.jpeg") ;
+   background-repeat: no-repeat center center ;
+   background-image: repeating-linear-gradient( 90%);
+
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size:cover;
+
+  
+}
+.services img{
+  opacity: 0.4;
+}
+
+
+
+.services h2{
+   margin-bottom: 40px;
+   color: #fff;
+}
+
+.services i{
+   text-align: center;
+  }
+
+
+
+
+.skills{
+ margin-top: 70px;
+}
+
+.statitics{
+  margin-top: 70px;
+
+  color: #fff;
+   margin-top: 100px;
+
+   background-image:url("../img/t4.jpg") ;
+   background-repeat: no-repeat center center ;
+   background-image: repeating-linear-gradient( 90%);
+
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size:cover;
+
+
+}
+.statitics i{
+  font-size: 40px;
+  margin-top: 10px;
+  color:#80dfff
+}
+.statitics .number{
+  font-size: 40px;
+}
+
+
+.contact {
+  margin-top: 70px;
+}
+
+.contact h2 {
+  margin-bottom: 40px;
+}
+
+.contact i{
+   color:#80dfff;
+  padding: 10px;
+  border: 5px solid #80dfff;
+  border-radius: 10px;
+}
+
+
+
+
+.copy-right {
+            border-top: 1px solid  #333;
+            padding: 20px;
+            color:#80dfff;
+          }
+          .copy-right ul{
+            margin: 0;
+          }
+          .copy-right ul li{
+            display: inline-block;
+          }
+
+          .copy-right ul li a{
+            color: #80dfff;
+            display: inline-block;
+            margin-left: 20px;
+            font-size: 20px;
+          }
+
+
+
+
+
